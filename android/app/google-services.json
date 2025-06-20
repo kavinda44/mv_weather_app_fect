@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037412759360",
+    "project_id": "maldives-weather-app",
+    "storage_bucket": "maldives-weather-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037412759360:android:87c82f4e5a786e98a4aca5",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_qW4v_UcaMY3Jva-RpR7vVxLDuRgGXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

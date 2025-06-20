@@ -1,0 +1,97 @@
+# name: first_project
+# description: "A new Flutter project."
+
+# version: 1.0.0+1
+
+# environment:
+#   sdk: ^3.5.2
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+
+#   cupertino_icons: ^1.0.8
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+#   flutter_lints: ^4.0.0
+
+# flutter:
+#   uses-material-design: true
+
+#   assets:
+#     - assets/image.png  
+
+# publish_to: 'none'
+
+
+name: first_project
+description: "A new Flutter project."
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+
+#   cupertino_icons: ^1.0.8
+
+#    firebase_core: ^2.15.0
+#   firebase_auth: ^4.8.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.19.0
+  firebase_auth_web: ^5.8.13
+  cupertino_icons: ^1.0.8
+  sleek_circular_slider: ^2.0.1
+  percent_indicator: ^4.2.2
+  url_launcher: ^6.3.0
+  http: ^1.2.2
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  google_maps_flutter: ^2.9.0
+  provider: ^6.0.0
+  geolocator: ^9.0.0
+  flutter_local_notifications: ^17.2.3
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image.png
+    - assets/fectmvlogo.png
+    - assets/facebook.png
+    - assets/linkedin.png
+    - assets/x.png
+    - assets/partly_cloudy.png
+    - assets/rainy.png
+    - assets/windy.png
+    - assets/clear.png
+    - assets/partly_rain_nearby.png
+
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        
+
+publish_to: 'none'
+
